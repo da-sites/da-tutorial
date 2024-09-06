@@ -1,7 +1,7 @@
 {
   "project": "DA Block Collection",
   "sourceFormat": {
-    "name": "Document Authoring",
+    "label": "Document Authoring",
     "pattern": "https://da.live/edit#/{{org}}/{{repo}}{{pathname}}"
   },
   "plugins": [
